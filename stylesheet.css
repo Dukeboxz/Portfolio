@@ -1,0 +1,69 @@
+body {
+	color: #ffffcc;
+	margin-top: 50px;
+	margin-right: 100px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+	border: solid 1px black;
+}
+#topimage {
+	height: 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	margin: auto;
+}
+#ink {
+	float: right;
+}
+
+h1 {
+	color: black;
+	font-size: 60px;
+	text-align: center;
+	font-family: Cabin Sketch, serif;
+}
+h2 {
+	font-family: Cabin Sketch, serif;
+	text-align: left;
+	color: black;
+}
+
+p {
+	font-family: Open Sans, serif;
+	color: black;
+}
+#aboutme {
+	font-family: Open Sans, serif;
+	color: black;
+}
+#My_projects {
+	display: table;
+	width: 100%;
+}
+.img-circle {
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+	border: black solid 2px;
+}
+#mp1 {
+	float: left;
+	width: 200px;
+
+}
+#mp2 {
+	float: left;
+	width: 200px;
+}
+#mp3 {
+	float: left;
+	width: 200px;
+}
+
+#projects_working_on1 {
+	display:inline-block;
+	color: red,
+	height: 150px;
+	width:  50px;
+
+}
